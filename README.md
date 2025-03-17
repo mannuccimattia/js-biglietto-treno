@@ -17,6 +17,8 @@ Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel fi
 <!-- ********************* -->
 <!--      SVOLGIMENTO      -->
 <!-- ********************* -->
-- Definisco il prezzo del biglietto
-- Chiedo all'utente chilometri e età
-- Calcolo il prezzo finale
+- Chiedo all'utente chilometri
+- Definisco il prezzo del biglietto intero
+- Chiedo all'utente di inserire l'età
+- Calcolo eventuali sconti
+- Restituisco il prezzo finale
