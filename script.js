@@ -18,5 +18,9 @@ if (userAge < 18){
 else if (userAge > 65){
   let seniorPrice = ticketPrice * 0.6;
   console.log("Il prezzo del tuo biglietto è €", seniorPrice.toFixed(2));
+}
 
+// ELSE
+else {
+  console.log("Il prezzo del tuo biglietto è €", ticketPrice.toFixed(2));
 }
