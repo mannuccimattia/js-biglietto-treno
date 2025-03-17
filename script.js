@@ -8,9 +8,15 @@ console.log("Il prezzo del biglietto intero è €", ticketPrice);
 // chiedo all'utente di inserire l'età
 let userAge = prompt("Quanti anni hai?");
 
-// SE userAge < 18 anni
+// IF userAge < 18 anni
 if (userAge < 18){
   let underagePrice = ticketPrice * 0.8;
   console.log("Il prezzo del tuo biglietto è €", underagePrice.toFixed(2));
 }
 
+// IF useAge > 65 anni
+else if (userAge > 65){
+  let seniorPrice = ticketPrice * 0.6;
+  console.log("Il prezzo del tuo biglietto è €", seniorPrice.toFixed(2));
+
+}
