@@ -22,3 +22,7 @@ Ricordatevi di spezzare il problema in sottoproblemi come visto a lezione nel fi
 - Chiedo all'utente di inserire l'età
 - Calcolo eventuali sconti
 - Restituisco il prezzo finale
+
+<!-- ********************* -->
+<!--         DONE          -->
+<!-- ********************* -->
